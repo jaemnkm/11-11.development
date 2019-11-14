@@ -1,1 +1,0 @@
-/Users/johnkim/Desktop/N_DRIVE/git/github/11-11/vendor/cache/ruby/2.6.0/gems/ffi-1.9.25/ext/ffi_c/libffi/src/x86/ffitarget.h
