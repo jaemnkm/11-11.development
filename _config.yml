@@ -1,0 +1,38 @@
+# Site settings
+title:          11-11
+description:    "Eleven Eleven was first published by California College of the Arts in 2003 as a journal of art and literature; since then it has been edited by faculty and students in the MFA in Writing program."
+baseurl:        ""
+url:            "https://11-11.cca.edu"
+
+# Google Analytics
+google_analytics: 122471875-3
+
+# Author
+author:
+  name:
+  url:
+  email:
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Collections
+collections:

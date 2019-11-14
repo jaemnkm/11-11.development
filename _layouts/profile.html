@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row page-section">
+
+    <div class="col-sm-12	col-md-12	col-lg-4	col-xl-4 segment-left post">
+      <img style="padding-top:2.5vh; align:left;" src="{{site.baseurl}}/assets/profile/{{page.image}}" alt="">
+      <h2 style="text-align:left;" class="post-title">{{ page.title }}</h2>
+      <p style="text-align:left;" class="post-title">{{ page.bio }}</p>
+      <br>
+      <div style="float:left;" class="post-line"></div>
+      <br>
+        <br>
+
+    </div>
+    <div class="col-sm-12	col-md-12	col-lg-8	col-xl-8 post">
+      <p>{{ content }}</p>
+    </div>
+  </div>
+</div>
+
+
+<!-- <div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+</div> -->

@@ -1,0 +1,21 @@
+<nav class="nav nav-tabs" style="overflow: inherit;">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/">
+      <h2 class="nav-title">{{ site.title }}</h2>
+    </a>
+    <ul>
+      <!-- <li><a href="{{ site.baseurl }}/">Issue</a></li> -->
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Year</a>
+        <div class="dropdown-menu">
+          <a class="nav-link dropdown-item" href="{{ '/2018-fall' | prepend: site.baseurl }}">2018</a>
+          <a class="nav-link dropdown-item" href="{{ '/2019-fall' | prepend: site.baseurl }}">2019</a>
+        </div>
+      </li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    </ul>
+  </div>
+</nav>

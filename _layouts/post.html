@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container-fluid">
+  <div class="row post-section-head">
+    <div class="col-12">
+      <h1>{{ page.title }}</h1>
+      <!-- <a href="{{site.baseurl}}/{{page.authorURL}}"><h3>{{ page.author }}</h3></a> -->
+      <h3>{{ page.author }}</h3>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row post-section">
+    <div class="col-12">
+      {{ content }}
+    </div>
+  </div>
+</div>
+<!-- /container -->
+
+<!-- <div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+</div> -->

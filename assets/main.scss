@@ -1,0 +1,474 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+@font-face {
+    font-family: Fabrik-Regular;
+    src: url("{{site.baseurl}}/assets/fonts/fabrik_n.otf");
+}
+@font-face {
+    font-family: Fabrik-Bold;
+    src: url("{{site.baseurl}}/assets/fonts/fabrik_bc.otf");
+}
+
+/******
+General
+******/
+main{
+  max-width: none;
+  width: 100%;
+  overflow-x:hidden;
+
+}
+.container-fluid{
+  max-width: none;
+}
+body{
+  max-width: none;
+}
+h1 h2 h3 h4 {
+
+}
+h1{
+  font-size: 32px;
+}
+h2{
+  font-family: Fabrik-Regular;
+  font-size: 1.5em;
+  color: #000000;
+
+}
+p{
+  font-size: 1em;
+  font-family: 'Work Sans', sans-serif;
+}
+.card{
+  background-color: none;
+}
+.collection-list{
+  list-style-type: none;
+}
+
+.list-1{
+  font-family: 'Work Sans';
+  font-size: 1em;
+  color: #000000;
+  list-style-type: none;
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
+}
+
+.list-2{
+  font-family:'Work Sans';
+  font-size: 1em;
+  color: #000000;
+  list-style-type: none;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+
+}
+
+.list-3{
+  font-family: 'Work Sans';
+  font-size: 1em;
+  color: #000000;
+  list-style-type: none;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+.page-section-head{
+  padding: 5vh 0 5vh 0 ;
+  // background: #EEF7F8;
+  background-image: url("{{site.baseurl}}/assets/section-head.svg");
+  // background-image: url("{{site.baseurl}}/assets/section-head.png");
+
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+  }
+  h3{
+    font-family: Fabrik-Regular;
+    font-size: 1.5em;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #35D1BF;
+  }
+}
+.page-section{
+  text-decoration: none;
+  justify-content: center;
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 1.5em;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  h3{
+    font-family: Fabrik-Regular;
+    font-size: 1.5em;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+  }
+  ul{
+    -webkit-padding-start:0;
+  }
+  li{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #000000;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  a{
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  a:any-link {
+    text-decoration: none !important;
+    padding: 0.5vh 0 0.5vh 0;
+  }
+a:hover{
+
+}
+a::after {
+  position: absolute;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #ff0dbf;
+  bottom: 5px;
+  transform: scale(0, 2);
+   transition: transform 2s;
+  transform-origin: left top;
+}
+a:hover::after {
+  transform: scale(1, 3);
+}
+  .space{
+    padding: 10vh 0 10vh 0 ;
+  }
+  // img{
+  // border: 0.5px solid;
+  // padding: 5px;
+  // box-shadow: 5px 5px #FFEF2E;
+  // }
+}
+
+.post-section-head{
+  padding: 15vh 5vw 0vh 10vw;
+
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 36px;
+    color: #000000;
+    text-align: left;
+  }
+  h3{
+    font-family: Fabrik-Regular;
+    font-size: 1.5em;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-align: left
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #35D1BF;
+  }
+}
+.post-section{
+  text-decoration: none;
+  padding: 5vh 5vw 0 10vw;
+
+
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 24px;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  h3{
+    font-family: Fabrik-Regular;
+    text-align: left;
+    font-size: 1.5em;
+  }
+
+  p{
+    font-size: 1em;
+  }
+  li{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #000000;
+    text-decoration: none;
+    padding-bottom: 1vh;
+    list-style-type: none;
+  }
+  a{
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  a:any-link {
+    text-decoration: none !important;
+  }
+
+  a::after {
+    position: absolute;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #ff0dbf;
+    bottom: 5px;
+    transform: scale(0, 2);
+     transition: transform 2s;
+    transform-origin: left top;
+  }
+  a:hover::after {
+    transform: scale(1, 3);
+  }
+  // .space{
+  //   padding: 5vh 0 0 0 ;
+  // }
+}
+
+.nav{
+  a{
+    color: #000;
+  }
+}
+.nav-section{
+    background: #F7FBFB;
+  .nav-title{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+  }
+  .nav-links{
+  font-family: Fabrik-Regular;
+  font-size: 18px;
+  color: #000000;
+  text-align: left;
+  }
+  li{
+    padding: 0 0 0 0;
+    list-style-type: none;
+  }
+
+}
+
+/******
+Profile
+******/
+
+
+
+
+/******
+Profile
+******/
+
+
+
+
+
+/******
+People
+******/
+
+
+
+
+
+
+
+
+/******
+Issue
+******/
+.attribute{
+  font-size: 18px
+}
+.segmet-left{
+  background-color: #555;
+
+}
+.issue-section-head{
+  background: #EEF7F8;
+
+
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 36px;
+    color: #000000;
+    text-align: left;
+    padding-top: 5vh;
+    padding-left: 5vw;
+  }
+  h3{
+  font-family: Fabrik-Regular;
+  font-size: 1.5em;
+  color: #000000;
+  text-align: left;
+  padding-top: 5vh;
+  padding-left: 5vw;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #000000;
+    text-align: left;
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #35D1BF;
+  }
+}
+.issue-section{
+  text-decoration: none;
+
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  h3{
+    font-family: Fabrik-Bold;
+    font-size: 1.5em;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 1em;
+  }
+  li{
+
+    font-family: 'Work Sans';
+    font-size: 1em;
+    color: #000000;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .attribute{
+    text-decoration: none;
+  }
+  .card{
+    padding: 7.5vh 0 0 2vw;
+     word-wrap: break-word;
+     background-color: transparent;
+     background-clip: none;
+     border: none;
+     border-radius: none;
+
+  }
+  a{
+    font-size: 1em;
+    font-family: 'Work Sans';
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none !important;
+  }
+  a:any-link {
+    text-decoration: none !important;
+  }
+
+  a::after {
+    position: absolute;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #ff0dbf;
+    bottom: 5px;
+    transform: scale(0, 2);
+     transition: transform 2s;
+    transform-origin: left top;
+  }
+  a:hover::after {
+    transform: scale(1, 3);
+  }
+  .space{
+    padding: 1vh 0 0 0 ;
+  }
+
+}
+
+
+
+/***********
+Landing Page
+***********/
+
+.r-fluid{
+
+    white-space: nowrap;
+    height: 90vh;
+    flex-wrap: nowrap;
+    overflow: auto;
+    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.png");
+    background-size: center center;
+    background-repeat: no-repeat;
+
+    .row{
+      flex-wrap: nowrap;
+
+    }
+    .col-6{
+      display: inline-block;
+      flex: 0 0 80%;
+      padding-left: 20vw;
+
+    }
+}
+.landing-space{
+padding: 20vh 0 0 ;
+
+}
+// .row-fluid .col-lg-3{
+//
+//     max-width: 60vw;
+// }
