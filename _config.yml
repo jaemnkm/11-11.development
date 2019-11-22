@@ -1,8 +1,8 @@
 # Site settings
 title:          11-11
 description:    "Eleven Eleven was first published by California College of the Arts in 2003 as a journal of art and literature; since then it has been edited by faculty and students in the MFA in Writing program."
-baseurl:        "11-11.development"
-url:            "https://jaemnkm.com/"
+baseurl:        "/"
+url:            "https://jaemnkm.com/11-11.development"
 
 # Google Analytics
 google_analytics: 122471875-3
