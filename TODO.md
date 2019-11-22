@@ -6,6 +6,10 @@
 - [ ] Mobile Layout
 - [ ] HTTP Redirect to HTTPS
 - [ ] Change text for Letter from the Editor
+- [ ] home page split into two columns, one side of text and one side graphic
+- [ ] font type for header, subheader, paragraph
+- [ ] conistency within grid 3pages
+- [ ] removed graphics
 
 ## In-Process
 
