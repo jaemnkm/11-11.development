@@ -17,7 +17,7 @@ Sorry to change it again mom, but we’re giving up singular pronouns
 <br><br>
 Sorry to change it again but we’re going by Anthropocene now
 <br><br>
-Sorry but climate change is real and it is caused by human activity
+Sorry but climate change is real and it <i>is</i> caused by human activity
 <br><br>
 Sorry to change it again but your ‘spirit animal’ has gone extinct
 <br><br>
