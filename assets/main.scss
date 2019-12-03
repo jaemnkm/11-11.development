@@ -34,14 +34,13 @@ h1{
   font-size: 32px;
 }
 h2{
-  font-family: Fabrik-Regular;
   font-size: 1.5em;
   color: #000000;
 
 }
 p{
   font-size: 1em;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Work Sans';
 }
 .card{
   background-color: none;
@@ -87,17 +86,15 @@ p{
   // background-image: url("{{site.baseurl}}/assets/section-head.png");
 
   h1{
-    font-family: Fabrik-Regular;
-    font-size: 36px;
+    font-family: 'Fabrik, san serif';
     color: #000000;
     text-align: center;
   }
   h3{
-    font-family: Fabrik-Regular;
+    font-family: 'Fabrik, san serif';
     font-size: 1.5em;
   }
   p{
-    font-family: 'Work Sans';
     font-size: 24px;
     color: #000000;
     text-align: center;
@@ -106,7 +103,6 @@ p{
     border: 5px solid #000000;
   }
   a{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #35D1BF;
   }
@@ -115,18 +111,17 @@ p{
   text-decoration: none;
   justify-content: center;
   h2{
-    font-family: Fabrik-Regular;
+    font-family: 'Fabrik, san serif';
     font-size: 1.5em;
     color: #000000;
     text-align: left;
     padding: 0 0 0 0;
   }
   h3{
-    font-family: Fabrik-Regular;
+    font-family: 'Fabrik, san serif';
     font-size: 1.5em;
   }
   p{
-    font-family: 'Work Sans';
     font-size: 24px;
     color: #000000;
   }
@@ -134,7 +129,6 @@ p{
     -webkit-padding-start:0;
   }
   li{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #000000;
     text-decoration: none;
@@ -183,17 +177,15 @@ a:hover::after {
   padding: 15vh 5vw 0vh 10vw;
 
   h1{
-    font-family: Fabrik-Regular;
-    font-size: 36px;
     color: #000000;
     text-align: left;
+    font-family: 'Fabrik, san serif';
   }
   h3{
-    font-family: Fabrik-Regular;
     font-size: 1.5em;
+    font-family: 'Fabrik, san serif';
   }
   p{
-    font-family: 'Work Sans';
     font-size: 24px;
     color: #000000;
     text-align: left
@@ -202,7 +194,6 @@ a:hover::after {
     border: 5px solid #000000;
   }
   a{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #35D1BF;
   }
@@ -213,14 +204,12 @@ a:hover::after {
 
 
   h2{
-    font-family: Fabrik-Regular;
     font-size: 24px;
     color: #000000;
     text-align: left;
     padding: 0 0 0 0;
   }
   h3{
-    font-family: Fabrik-Regular;
     text-align: left;
     font-size: 1.5em;
   }
@@ -229,7 +218,6 @@ a:hover::after {
     font-size: 1em;
   }
   li{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #000000;
     text-decoration: none;
@@ -275,13 +263,11 @@ a:hover::after {
 .nav-section{
     background: #F7FBFB;
   .nav-title{
-    font-family: Fabrik-Regular;
     font-size: 32px;
     color: #000000;
     text-align: left;
   }
   .nav-links{
-  font-family: Fabrik-Regular;
   font-size: 18px;
   color: #000000;
   text-align: left;
@@ -334,15 +320,14 @@ Issue
 
 
   h1{
-    font-family: Fabrik-Regular;
-    font-size: 36px;
+    font-family: 'Fabrik, san serif';
     color: #000000;
     text-align: left;
     padding-top: 5vh;
     padding-left: 5vw;
   }
   h3{
-  font-family: Fabrik-Regular;
+  font-family: 'Fabrik, san serif';
   font-size: 1.5em;
   color: #000000;
   text-align: left;
@@ -350,7 +335,6 @@ Issue
   padding-left: 5vw;
   }
   p{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #000000;
     text-align: left;
@@ -361,7 +345,6 @@ Issue
     border: 5px solid #000000;
   }
   a{
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #35D1BF;
   }
@@ -370,23 +353,19 @@ Issue
   text-decoration: none;
 
   h2{
-    font-family: Fabrik-Regular;
-    font-size: 32px;
+    font-family: 'Fabrik, san serif';
     color: #000000;
     text-align: left;
     padding: 0 0 0 0;
   }
   h3{
-    font-family: Fabrik-Bold;
+    font-family: 'Fabrik, san serif';
     font-size: 1.5em;
   }
   p{
-    font-family: 'Work Sans';
     font-size: 1em;
   }
   li{
-
-    font-family: 'Work Sans';
     font-size: 1em;
     color: #000000;
     text-decoration: none;
@@ -406,7 +385,6 @@ Issue
   }
   a{
     font-size: 1em;
-    font-family: 'Work Sans';
     color: #000000;
     position: relative;
     display: inline-block;
