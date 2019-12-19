@@ -5,35 +5,41 @@
 - [ ] Change Logo
 - [ ] Mobile Layout
 - [ ] HTTP Redirect to HTTPS
-- [ ] Change text for Letter from the Editor
-- [ ] home page split into two columns, one side of text and one side graphic
-- [ ] font type for header, subheader, paragraph
-- [ ] conistency within grid 3pages
-- [ ] removed graphics
 
 ## In-Process
 
-- [ ] Add Hannah Lamb-Vines Bio
-- [ ] Add John Kim Bio
-- [ ] Add Ryan Legaspi Bio
-- [ ] Add Rita Bullwinkle Bio
-- [ ] Add Adam Marcus Bio
-- [ ] Add Buoyant Ecologies Bio
 - [ ] update FULLNESS of BEING Post
-- [ ] update letter from the editor for 2019
 - [ ] update 2019-fall with new list
+- [ ] ‘fabrik’ type face is not reading
+- [ ] move policies to masthead page
+- [ ] make lead drop caps that use pink substrate pattern 
+- [ ] flag/logo mock ups using pink substrate pattern
+- [ ] navigation links
+- [ ] italics on the first two lines of ‘Someone Quiet Down the		 Biodiverse I’
+- [ ] incorporate youmna and gayle’s answers into one
+- [ ] art for fullness of being
+- [ ] review pull quotes for fullness of being
+- [ ] Rag right on all copy 
+- [ ] Font size the same for body copy
+- [ ] Drop caps on lead paragraph
+- [ ] Make some sample pull quotes using FABRIK 
+- [ ] Add New Pink 11-11 Flag to Landing Page, Fall 2019, Contributors, Masthead, About
 
 ### Notes
 
-What is Hannah Lamb-Vines Bio?
-
-Make sure to have the order of the authors by alphabetical order by last name.
-
-OLIVER: Bio and photos
-https://www.oliverbaezbendorf.com/about
-
 ## Completed
 
+- [x] consistently use 11-11
+- [x] home page: ‘Eleven Eleven’ should be body copy
+- [x] update letter from the editor for 2019
+- [x] Change text for Letter from the Editor
+- [x] Change people to contributors
+- [x] Add Hannah Lamb-Vines Bio
+- [x] Add John Kim Bio
+- [x] Add Ryan Legaspi Bio
+- [x] Add Rita Bullwinkle Bio
+- [x] Add Adam Marcus Bio
+- [x] Add Buoyant Ecologies Bio
 - [x] create TODO.md
 - [x] Move Timothy Morton bio into author page
 - [x] Change Copyright
