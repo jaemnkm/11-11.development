@@ -14,5 +14,5 @@ permalink: /rita-bullwinkle/
 
 <h3 style="padding: 5vh 0 1vh 0;">Fall 2019 Issue</h3>
 <ul class="collection-list">
-  <li><a href="{{site.baseurl}}/fullness-of-being/">Beyond the City and Towards the Sea: Buoyant Ecologies as Affordable Housing</a></li>
+  <li><a href="{{site.baseurl}}/beyond-the-city-and-towards-the-sea/">Beyond the City and Towards the Sea: Buoyant Ecologies as Affordable Housing</a></li>
 </ul>

@@ -8,7 +8,7 @@ categories: 2019fall
 permalink: /beyond-the-city-and-towards-the-sea/
 ---
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/profile/rita-bullwinkle.jpg" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto; width:10vw;" src="{{site.baseurl}}/assets/profile/rita-bullwinkle.jpg" alt="">
 
 >“If I were to sleep inside one of the float lab’s warm kidneys I imagine that it would feel like I had the whole ocean to dream in.”
 
@@ -73,6 +73,22 @@ If I were to sleep inside one of the float lab’s warm kidneys I imagine it wou
           <ul>
             <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/cheers/">Cheers</a></li>
             <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Someone Quiet Down The Biodiverse “I”</a></li>
+          </ul>
+        </ul>
+      </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Rita Bullwinkle</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Beyond the City and Towards the Sea: Buoyant Ecologies as Affordable Housing</a></li>
+          </ul>
+        </ul>
+      </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Buoyant Ecologies</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">The Future Floats: Building Buoyant Homes for Nonhumans</a></li>
           </ul>
         </ul>
       </div>

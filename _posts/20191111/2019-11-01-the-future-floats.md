@@ -36,8 +36,6 @@ Credit for all images: Architectural Ecologies Lab
 
 <br>
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
-
 Image 
 Developing the Form Factors
 
@@ -47,7 +45,6 @@ These full-scale substrate prototypes are designed to function as what scientist
 
 <br>
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 
 Image 
 Float Lab en Rose
@@ -55,8 +52,6 @@ Float Lab en Rose
 The Float Lab is a collaboration with Moss Landing Marine Science Benthic Lab and Kreysler Associates, the legendary fiberglass fabricators.
 
 <br>
-
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 
 Image 
 Prototyping Options
@@ -67,8 +62,6 @@ Options for substrate forms were tested along the California coast, to see how t
 
 <br>
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
-
 Image
 Monitoring the Substrate Underwater
 
@@ -76,7 +69,6 @@ Prototypes of the ecologically optimized substrates informed the design of the F
 
 <br>
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 
 Image
 
@@ -92,8 +84,6 @@ The final form of the floating structure has been described by its designers as 
 Image 
 Montage
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
-
 This montage of images shows design details, including  marine hardware and a solar panel that powers the Float Lab’s bilge and irrigation pumps.. 
 
 <br>
@@ -102,7 +92,6 @@ This montage of images shows design details, including  marine hardware and a so
 Image
 Caption: What Lies Beneath
 
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 
 Two images of plants and animals beginning to make themselves at home. Using peaks and valleys on both sides of the structure—produced in two identical halves to minimize the waste of producing custom molds—of varying sizes, the Lab features “fish apartments” supplied by nutrients from plankton and other invertebrates that are carried along by flowing water. 
 
@@ -151,6 +140,22 @@ Two images of plants and animals beginning to make themselves at home. Using pea
           <ul>
             <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/cheers/">Cheers</a></li>
             <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Someone Quiet Down The Biodiverse “I”</a></li>
+          </ul>
+        </ul>
+      </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Rita Bullwinkle</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Beyond the City and Towards the Sea: Buoyant Ecologies as Affordable Housing</a></li>
+          </ul>
+        </ul>
+      </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Buoyant Ecologies</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">The Future Floats: Building Buoyant Homes for Nonhumans</a></li>
           </ul>
         </ul>
       </div>

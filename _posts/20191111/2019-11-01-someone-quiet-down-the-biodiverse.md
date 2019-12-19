@@ -73,5 +73,21 @@ Sorry
           </ul>
         </ul>
       </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Rita Bullwinkle</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Beyond the City and Towards the Sea: Buoyant Ecologies as Affordable Housing</a></li>
+          </ul>
+        </ul>
+      </div>
+        <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Buoyant Ecologies</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">The Future Floats: Building Buoyant Homes for Nonhumans</a></li>
+          </ul>
+        </ul>
+      </div>
     </div>
   </section>
