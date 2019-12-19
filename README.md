@@ -93,7 +93,7 @@ Make sure to be in the main project directory
 
 If there are issues related to public_suffix verison
 
-bundle exec jekyll serve
+    bundle exec jekyll serve
 
 ## Creating New Pages
 

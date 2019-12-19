@@ -1,7 +1,7 @@
 ---
-layout: people
-title: "People"
-permalink: /people/
+layout: contributors
+title: "Contributors"
+permalink: /contributors/
 description:
 nav-local-1-link:
 nav-local-1-name:
