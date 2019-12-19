@@ -15,6 +15,13 @@
 
 - [ ] Add Hannah Lamb-Vines Bio
 - [ ] Add John Kim Bio
+- [ ] Add Ryan Legaspi Bio
+- [ ] Add Rita Bullwinkle Bio
+- [ ] Add Adam Marcus Bio
+- [ ] Add Buoyant Ecologies Bio
+- [ ] update FULLNESS of BEING Post
+- [ ] update letter from the editor for 2019
+- [ ] update 2019-fall with new list
 
 ### Notes
 
