@@ -11,7 +11,6 @@
 - [ ] update FULLNESS of BEING Post
 - [ ] update 2019-fall with new list
 - [ ] ‘fabrik’ type face is not reading
-- [ ] move policies to masthead page
 - [ ] make lead drop caps that use pink substrate pattern 
 - [ ] flag/logo mock ups using pink substrate pattern
 - [ ] navigation links
@@ -29,6 +28,7 @@
 
 ## Completed
 
+- [x] move policies to masthead page
 - [x] consistently use 11-11
 - [x] home page: ‘Eleven Eleven’ should be body copy
 - [x] update letter from the editor for 2019
