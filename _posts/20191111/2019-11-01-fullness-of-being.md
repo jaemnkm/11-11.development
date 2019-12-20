@@ -8,19 +8,37 @@ categories: 2019fall
 permalink: /fullness-of-being/
 ---
 
-Public lecture delivered April, 2019, to culminate the first ECOPOESIS gathering at California College of the Arts, San Francisco
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/morton_book_cover.jpg" alt="">
 
-<br><br>
+<img style="display: block; margin-left: auto; margin-right: auto; width:15vw;" src="{{site.baseurl}}/assets/20191111/Julien_Masquerad.tif" alt="">
 
->“The idea that alienation is being cut off from the future, the possibility that things might be different, has become very easy to think, and very good to think. All this has some consequences for art.”
+><span style="font-weight: 700">So who wrote the poem? A human being? The human being’s family or psychic issues? The human being’s unconscious? The culture the human lived in?</span>
+
+>If we don’t like the theology of dollars and structural unemployment and having to work to live and all that stuff... do we think it would be a good idea to include cockroaches and cats in the revolutionary projects we have going on?
+
+>The gaps in the poem mean that something is there, but what is there?
+
+>But does “explode” mean “explode into life and therefore become dangerous to the white powers that be” or does “explode” mean “evaporate as if it had never existed at all”?
+
+>But what does infinity mean?
+
+>The blankness of the page is the automated zombie apocalypse—it’s whiteness eating your brain with memes, stopping you from thinking, obtruding on the dream like a huge hot parking lot surrounding a carton of orange juice.
+
+>The Uncanny Valley diagram was created because it became well known in robotics that as you came closer and closer to imitating a lifelike human being, the robot passed through a phase that appeared strange or scary or creepy.
+
+>Because you are a symbiotic product of a truly random series of mutations called evolution. 
+
+>You don’t have to prove that rocks are definitely alive, you just have to notice that “alive” or “conscious” means I’m paranoid that you might be a zombie. 
 
 <p style="line-height: 2;">
 <br><br>
-<span style="font-size: 5em; font-weight: 500;display:inline-block">“</span>Most ecological and plenty of non-ecological theories of alienation exist. Most of them state that we are alienated from a past where things were better, or perfect. But this is just the notion of the Fall, translated into some other mode, and that narrative is one way in which agricultural societies talk about the damage they have already done. The inherent speciesism (“nature” versus human culture) of this model is historically bankrolled by racism and patriarchy.
-There’s another way of thinking about alienation, logically, and luckily there are ways of showing that it’s true: if we aren’t alienated from the past we are alienated from the future.
-The media tell us that we are approaching the end of the world, because of global warming, but it’s much more serious than that. We are approaching us being dead and children now growing up and having to live in this biosphere, for a long time—longer than the end of time, in any case. The idea that alienation is being cut off from the future, the possibility that things might be different, has become very easy to think, and very good to think.
-<br><br>
-All this has some consequences for art.
+<span style="font-size: 2em; font-weight: 500;display:inline-block">“</span>Most ecological and plenty of non-ecological theories of alienation exist. Most of them state that we are alienated from a past where things were better, or perfect. But this is just the notion of the Fall, translated into some other mode, and that narrative is one way in which agricultural societies talk about the damage they have already done. The inherent speciesism (“nature” versus human culture) of this model is historically bankrolled by racism and patriarchy.
+<br>
+<span style="margin-left: 40px;">There’s another way of thinking about alienation, logically, and luckily there are ways of showing that it’s true: if we aren’t alienated from the past we are alienated from the future.
+<br>
+<span style="margin-left: 40px;">The media tell us that we are approaching the end of the world, because of global warming, but it’s much more serious than that. We are approaching us being dead and children now growing up and having to live in this biosphere, for a long time—longer than the end of time, in any case. The idea that alienation is being cut off from the future, the possibility that things might be different, has become very easy to think, and very good to think.
+<br>
+<span style="margin-left: 40px;">All this has some consequences for art.
 <br><br>
 <br><br>
 <d style="padding-left: 50px;">What happens to a dream deferred?</d>
@@ -43,7 +61,7 @@ This is a poem called “Harlem” and it’s by Langston Hughes. Let’s start 
 <span style="margin-left: 40px;">Okay, well who wrote this poem? Langston Hughes would be the easiest answer. But all kinds of author functions, as Foucault used to say, exist. Maybe it’s better to say “Who or what wrote the poem?” It’s quite common for example to reduce Marxist criticism to its vulgar version, where you square the poem with the economic conditions of the day, say about a decade, in the country in which it was written. That Tennyson poem is a typical product of 1840s industrial capitalism in Britain. This Hughes poem is a typical product of 1950s American capitalism. Or whatever.
 <br>
 </span>
-<span style="margin-left: 40px;">
+<span style="margin-left: 40px;font-weight:700">
 So who wrote the poem? A human being? The human being’s family or psychic issues? The human being’s unconscious? The culture the human lived in? How many do we include? Who wrote the poem? Capitalism? The human genome? The biosphere? The ecosystem around the human poet? A light fall of rain one morning? The climate? The nuclear industry? The military industrial complex? The structure of racism in mid-twentieth century America? The struggle of African Americans to achieve basic rights?
 </span>
 <span style="margin-left: 40px;">
@@ -57,14 +75,12 @@ All right, let’s try something else. When was the poem written? The early twen
 <br>
 <span style="margin-left: 40px;">
 In a way the poem was written in all of these times. Right? Just like in a way, all the beings I listed earlier wrote the poem.
-</span>
-<span style="margin-left: 40px;">
 Let’s think about another aspect of the poem. Let’s think about the physical media of which it’s composed. Paper, typewriter ink; pixels, glass screens; microfilm. Roman Jakobson has a clunky but interesting six-part model of communication, that is useful in the way that all structuralist interpretative devices are useful, which is the way in which magic mixers that can slice and dice your food five different ways are useful. Put the poem through the blender, you learn something from what the blender does to it.
 </span>
 <br>
 <br>
 <span style="margin-left: 40px;">
-So the first thing you notice is, there are these spacious gaps between some of the lines, while some other lines are close together. The first line, “What happens to a dream deferred?” has a lot of space around it—it’s trying to make you think, but it’s also trying to make you feel something, the opaque weight of all that deferment. It’s a tight little poem, whose lines have two or three rhythmical feet, and that means that unlike a wall of words, the space around the poem and between the stanzas is highlighted and becomes part of how you read it—you have to find some way to pronounce the blankness at the end of each line. In a way the poem a little bit lonely, like discarded little carton of orange juice that you find one day lying in an empty parking lot—not enough people are noticing what it’s saying. Or, conversely, the poem is trapped in a bath of blankness, pressing in on all sides—if you think about the parking lot the same way, it’s the same thing. something huge and constructed and blank yet weirdly invisible because it’s so hard to see presses in on our powers of thought and our physical powers on all sides. Your feet ache and you feel lonely and you regret the absence of butterflies.
+So the first thing you notice is, there are these spacious gaps between some of the lines, while some other lines are close together. The first line, “What happens to a dream deferred?” has a lot of space around it—it’s trying to make you think, but it’s also trying to make you feel something, the opaque weight of all that deferment. It’s a tight little poem, whose lines have two or three rhythmical feet, and that means that unlike a wall of words, the space around the poem and between the stanzas is highlighted and becomes part of how you read it—you have to find some way to pronounce the blankness at the end of each line. In a way the poem is a little bit lonely, like a discarded little carton of orange juice that you find one day lying in an empty parking lot—not enough people are noticing what it’s saying. Or, conversely, the poem is trapped in a bath of blankness, pressing in on all sides—if you think about the parking lot the same way, it’s the same thing; something huge and constructed and blank yet weirdly invisible because it’s so hard to see presses in on our powers of thought and our physical powers on all sides. Your feet ache and you feel lonely and you regret the absence of butterflies.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -77,11 +93,15 @@ The weight  of deferment—the weight of waiting, as a matter of fact—is legib
 <br>
 <br>
 <span style="margin-left: 40px;">
-It’s something I love about the Laser Interferometry Gravitational Observatory, about two miles north west of New Orleans, which is sort of Houston’s sister city. Two laser beams at right angles. It’s a very simple and relatively cheap experiment, compared at any rate with CERN. It’s tens of millions rather than billions, and there’s a difference, although it may seem absurdly expensive to us. At LIGO, these two lasers are bouncing off carefully calibrated mirrors. They pick up everything. Everything. Like cattle walking over the cattle grid in the field outside. People having arguments in an adjoining room about the experiment. Cars going past on the road outside. And you know what’s most uncanny is, if you know the waveforms for these things, you can subtract them from the waveform that results from the vibrating lasers. The movement of tectonic plates; the sound of aircraft…the lasers pick up everything, and when you cut out those cows walking over the grid and so on (I love the cows part), and there’s a tiny squiggle of something left, that you can’t explain, and it has the right sort of anticipated shape, do you know what is? That thing is a gravity wave.
+It’s something I love about the Laser Interferometry Gravitational Observatory, about two miles northwest of New Orleans, which is sort of Houston’s sister city. Two laser beams at right angles. It’s a very simple and relatively cheap experiment, compared at any rate with CERN. It’s tens of millions rather than billions, and there’s a difference, although it may seem absurdly expensive to us. At LIGO, these two lasers are bouncing off carefully calibrated mirrors. They pick up everything. Everything. Like cattle walking over the cattle grid in the field outside. People having arguments in an adjoining room about the experiment. Cars going past on the road outside. And you know what’s most uncanny is, if you know the waveforms for these things, you can subtract them from the waveform that results from the vibrating lasers. The movement of tectonic plates; the sound of aircraft…the lasers pick up everything, and when you cut out those cows walking over the grid and so on (I love the cows part), and there’s a tiny squiggle of something left, that you can’t explain, and it has the right sort of anticipated shape, do you know what that is? That thing is a gravity wave.
 </span>
 <br>
 <span style="margin-left: 40px;">
 It’s a signature of two black holes colliding, one thousand light years away, a tiny flicker of spacetime in which everything on Earth got a little bit smaller and a little bit slower-living, then a little bit bigger and a little bit faster, then back to normal. Half an hour after the new improved LIGO was switched on, with more carefully calibrated lasers, two black holes collided and the energy equaled the output of the entire universe. And a ripple in spacetime spread out until it passed through everything on Earth. Is it not uncanny—rather like the idea of shadowtime that I was hearing about yesterday evening—that the gravity wave was right there, inside the waveform determined by moocows, cars, people arguing, tectonic plates…
+</span>
+<br><br>
+<span style="margin-left: 40px;">
+And in the poem, the gravity of racism and the oppression of nonwhite people in America, and moreover on Earth, is right there, in the seeming silence and space of the paper or pixelated gaps:
 </span>
 <br><br>
 <d style="padding-left: 100px;display:block">Does [the dream deferred] stink like rotten meat?</d>
@@ -94,7 +114,7 @@ It’s a signature of two black holes colliding, one thousand light years away, 
 <d style="padding-left: 100px;display:block">Or does it explode?</d>
 <br><br>
 <span style="margin-left: 40px;">
-Then you realize that the shadowtime is also in the imagery. The rotting of meat—the way it becomes inedible for humans because it’s being eaten by bacteria—the rotting is commensurate, in a metaphorical sense, with the deferment of the dream of un-alienated fullness of being, the “dream” that Hughes is talking about. It’s an ecological process—the appropriation of something we thought was just for us (it’s called “meat” not “cows” or “pigs” for this reason), by something else. The something else-ness is what makes the rottenness of the meat disgusting. That’s a thing that can happen in a few days in your kitchen; the racism is a thing that can happen for several hundred years in the hemisphere you live in on Earth. Metaphor is bringing these two timescales close without collapsing them into one another. “This is that,” in the realm of metaphor rather than math, means also that “this is not that.” Rotting time is not the same as dream deferment time.
+Then you realize that the shadowtime is also in the imagery. The rotting of Then you realize that the shadowtime is also in the imagery. The rotting of meat—the way it becomes inedible for humans because it’s being eaten by bacteria—the rotting is commensurate, in a metaphorical sense, with the deferment of the dream of un-alienated fullness of being, the “dream” that Hughes is talking about. It’s an ecological process—the appropriation of something we thought was just for us (it’s called “meat” not “cows” or “pigs” for this reason), by something else. The something else-ness is what makes the rottenness of the meat disgusting. That’s a thing that can happen in a few days in your kitchen; the racism is a thing that can happen for several hundred years in the hemisphere you live in on Earth. Metaphor is bringing these two timescales close without collapsing them into one another. “This is that,” in the realm of metaphor rather than math, means also that “this is not that.” Rotting time is not the same as dream deferment time.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -130,7 +150,7 @@ In writing this poem, the authors (for Langston Hughes is one of them, but there
 </span>
 <br>
 <span style="margin-left: 40px;">
-But the blank space isn’t blank. The poem obviously plays with topics such as rotting and producing sugars, or being coated by sugars, processes that are to do with the biochemistry of lifeforms in a biosphere. The gaps in the poem mean that something there, but what is there? The open question quality is legible in the opacity of those gaps. What is there quite literally is the paper or the pixels, and what is there definitely and more figuratively is the labor of black people—what Karl Marx would call the species being of humans. Marx identifies this with imaginative projection and appropriation, but we don’t have to. Let’s just focus on the brute, aka silent, presence of physical being in those gaps, a physical being whose analog are the concrete images of rotting, sugaring and exploding.
+But the blank space isn’t blank. The poem obviously plays with topics such as rotting and producing sugars, or being coated by sugars, processes that are to do with the biochemistry of lifeforms in a biosphere. The gaps in the poem mean that something is there, but what is there? The open question quality is legible in the opacity of those gaps. What is there quite literally is the paper or the pixels, and what is there definitely and more figuratively is the labor of black people—what Karl Marx would call the species being of humans. Marx identifies this with imaginative projection and appropriation, but we don’t have to. Let’s just focus on the brute, aka silent, presence of physical being in those gaps, a physical being whose analog are the concrete images of rotting, sugaring and exploding.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -146,7 +166,7 @@ And isn’t that ecological awareness in a nutshell, really? The fact that since
 </span>
 <br>
 <span style="margin-left: 40px;">
-Ecological awareness most certainly is not about seeing things more clearly than Joe Public. Ecological awareness is about being willing to be haunted. We’ll see quite soon just how hard wired into ecology are concepts of specters, ghosts, shadows, fleeting things that appear in the corner of your eye. Ecologica awareness doesn’t mean you exorcised the bad artificial stuff and got back to nature. It mean that a greater number than ever of opaque semi-silent shadowy beings are making soft noises in the margins...it’s something that is powerfully conveyed in Amiri Baraka’s “Something in the Way of Things,” a poem whose paranoid tone aims to delineate the spooky, spectral presence of brutality and exploitation and racism in the fabric of the seemingly quiet street along which the narrator is walking.
+Ecological awareness most certainly is not about seeing things more clearly than Joe Public. Ecological awareness is about being willing to be haunted. We’ll see quite soon just how hard wired into ecology are concepts of specters, ghosts, shadows, fleeting things that appear in the corner of your eye. Ecological awareness doesn’t mean you exorcised the bad artificial stuff and got back to nature. It means that a greater number than ever of opaque semi-silent shadowy beings are making soft noises in the margins...it’s something that is powerfully conveyed in Amiri Baraka’s “Something in the Way of Things,” a poem whose paranoid tone aims to delineate the spooky, spectral presence of brutality and exploitation and racism in the fabric of the seemingly quiet street along which the narrator is walking.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -170,11 +190,11 @@ The last time western philosophy tried to talk about all of whatever we are at o
 </span>
 <br>
 <span style="margin-left: 40px;">
-Otherwise the whole called human is a totally different world from the world called moocows, and so we might get to thinking that we can do what we want with moocows or just totally ignore them. If we can’t overlap, we can’t communicate. If the concept of word means something self-contained and rigid, there’s no hope at all. And someone can say “My concept of world is much richer than yours, or you don’t have one at all, so I own Australia now.”
+Otherwise the whole called human is a totally different world from the world called moocows, and so we might get to thinking that we can do what we want with moocows or just totally ignore them. If we can’t overlap, we can’t communicate. If the concept of world means something self-contained and rigid, there’s no hope at all. And someone can say “My concept of world is much richer than yours, or you don’t have one at all, so I own Australia now.”
 </span>
 <br>
 <span style="margin-left: 40px;">
-I reckon this vacuum sealed world concept comes from rigid class hierarchies and I reckon that comes from demarcating the difference between human and nonhuman space using things like walls, because you have created granaries to preserve food from the ravages of mild global warming. You sealed off your human survival temporality, so you justify this by getting to think in various ways that the seal demarcates something real (religion, tragedy, philosophy, however you do it). It’s about 10 000 BCE, and you’re doing the right thing, at your scale, just like how starting your car in the morning doesn’t cause global warming. No, it really doesn’t. you’re not guilty. Besides, eating a bit less meat is much, much more effective than buying a Tesla, and easier too.
+I reckon this vacuum sealed world concept comes from rigid class hierarchies and I reckon that comes from demarcating the difference between human and nonhuman space using things like walls, because you have created granaries to preserve food from the ravages of mild global warming. You sealed off your human survival temporality, so you justify this by getting to think in various ways that the seal demarcates something real (religion, tragedy, philosophy, however you do it). It’s about 10 000 BCE, and you’re doing the right thing, at your scale, just like how starting your car in the morning doesn’t cause global warming. No, it really doesn’t. You’re not guilty. Besides, eating a bit less meat is much, much more effective than buying a Tesla, and easier too.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -182,7 +202,7 @@ You justify the demarcations and divisions of labor by explaining that the other
 </span>
 <br>
 <span style="margin-left: 40px;">
-On one side of the valley is a very suspicious being, the so-called “healthy human being,” and I think we can all hear the normal vs pathological, eugenics resonance in that concept. Exactly what is that, I don’t wonder for more than a second, speaking as we are close to Sacramento where in the early twentieth century horrible eugenics experiments were carried out, such as leaving newborn babies to die in hospital because they were unfit. On the other side of the valley is a cute so-called animal, or their electornic equivalent, the cute droid such as R2D2. They’re cute because they’re different—they’re separated by a thin hard line, which is what the Uncanny Valley looks like when you look across it at R2D2, because of foreshortening. Hitler was fond of his dog Blondi because Blondi was different enough from him, so that he could feel all those nice sublimated cute aggression feelings and make animal rights legislation. Let’s just face it—a lot of environmental organizations have had deep connections with white supremacy, and I’m explaining why.
+On one side of the valley is a very suspicious being, the so-called “healthy human being,” and I think we can all hear the normal vs pathological, eugenics resonance in that concept. Exactly what is that, I don’t wonder for more than a second, speaking as we are close to Sacramento where in the early twentieth century horrible eugenics experiments were carried out, such as leaving newborn babies to die in hospital because they were unfit. On the other side of the valley is a cute so-called animal, or their electronic equivalent, the cute droid such as R2D2. They’re cute because they’re different—they’re separated by a thin hard line, which is what the Uncanny Valley looks like when you look across it at R2D2, because of foreshortening. Hitler was fond of his dog Blondi because Blondi was different enough from him, so that he could feel all those nice sublimated cute aggression feelings and make animal rights legislation. Let’s just face it—a lot of environmental organizations have had deep connections with white supremacy, and I’m explaining why.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -210,7 +230,7 @@ We are beginning to notice that true fullness in the end is movement, always exp
 </span>
 <br>
 <span style="margin-left: 40px;">
-To sag is to sink or subside gradually…think about how all the stuff that might happen to the dream has a really different temporality to it. Rotting is what happens to a corpse and one can’t help but visualize the history of lynching and the song “Strange Fruit.” Becoming glazed with sugar might take longer than rotting, if we were thinking about an item of food. Sagging has to do with just persisting but without being used by us. And exploding might be the sudden catastrophe that results when sagging has gone on for a while, or glazing, or rotting. (**)
+To sag is to sink or subside gradually…think about how all the stuff that might happen to the dream has a really different temporality to it. Rotting is what happens to a corpse and one can’t help but visualize the history of lynching and the song “Strange Fruit.” Becoming glazed with sugar might take longer than rotting, if we were thinking about an item of food. Sagging has to do with just persisting but without being used by us. And exploding might be the sudden catastrophe that results when sagging has gone on for a while, or glazing, or rotting.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -226,7 +246,7 @@ The poem is talking about interpretation, in lots of ways. The dream deferred is
 </span>
 <br>
 <span style="margin-left: 40px;">
-Turing was trying to prove Gödel’s Incompleteness Theorem. A logical system must be flawed in order to exist so you can make it go into an infinite loop. And you can’t design an uber meta program that can predict (aka the future…) when any other algorithm will go into an infinite loop…which means that the future is open, like how poems are, because there must always be some opacity in a logical system in order for it to be transparent, or true. Godel created his theorem because about Russell and Whitehead were trying to police mathematician Cantor (a mathematician like Godel), police him with logic. Cantor discovered infinities that were ‘bigger” than regular. And infinity truly means you can’t count (compute) it, not it goes on forever…in between Hilbert was wondering whether computational processes could be seen to stop (the Entscheidungsproblem)…it’s like they invented computers to prove that computers can’t do everything…and then the Max 8 showed up…
+Turing was trying to prove Gödel’s Incompleteness Theorem. A logical system must be flawed in order to exist so you can make it go into an infinite loop. And you can’t design an uber meta program that can predict (aka the future…) when any other algorithm will go into an infinite loop…which means that the future is open, like how poems are, because there must always be some opacity in a logical system in order for it to be transparent, or true. Godel created his theorem because Russell and Whitehead were trying to police mathematician Cantor (a mathematician like Godel), police him with logic. Cantor discovered infinities that were ‘bigger” than regular. And infinity truly means you can’t count (compute) it, not it goes on forever…in between Hilbert was wondering whether computational processes could be seen to stop (the Entscheidungsproblem)…it’s like they invented computers to prove that computers can’t do everything…and then the Max 8 showed up…
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -238,7 +258,7 @@ The infinite openness of futurality is what the essence of a thing is, as oppose
 </span>
 <br>
 <span style="margin-left: 40px;">
-Openness and finitude thus go together. Another way of saying what the mathematicians are saying against the western logicians, is that there’s at least one level on which you or your interpretation or your action, whatever it may be, suck(s). Some lifeform you didn’t think about gets killed or eventually you get cancer because you ate too many of whatever in whatever particular way. Ecological awareness, meaning you realize things happen on lots of space and time scales at once, means knowing that at some point at least you are a hypocrite. You can’t get it perfect. Not knowing when an entity wil come to an end is thus part of panic, the basic ecological mood, the great god Pan. You that a thing is flawed, that it will stop, but you can’t know exactly when or how, at least not for everything. Will mass extinction wipe us out, and when? It’s like that. It’s a good time to panic and think and do something about it.
+Openness and finitude thus go together. Another way of saying what the mathematicians are saying against the western logicians, is that there’s at least one level on which you or your interpretation or your action, whatever it may be, suck(s). Some lifeform you didn’t think about gets killed or eventually you get cancer because you ate too many of whatever in whatever particular way. Ecological awareness, meaning you realize things happen on lots of space and time scales at once, means knowing that at some point at least you are a hypocrite. You can’t get it perfect. Not knowing when an entity will come to an end is thus part of panic, the basic ecological mood, the great god Pan. You know that a thing is flawed, that it will stop, but you can’t know exactly when or how, at least not for everything. Will mass extinction wipe us out, and when? It’s like that. It’s a good time to panic and think and do something about it.
 </span>
 <br>
 <span style="margin-left: 40px;">
@@ -246,7 +266,7 @@ Sugar is a thing that evokes both Nature and culture, civilization and barbarism
 </span>
 <br>
 <span style="margin-left: 40px;">
-Sagging suggests just letting gravity, aka spacetime, do its thing, a kind of existing in indifference. It’s not about stasis--it’s moving. Sagging is an abject movement that could indeed explode from the inside as slime as much as fire, like ectoplasm, the spectral body fluid; sagging is about physical being and time, “going out of shape” and getting old…Environmental creepiness is there in that racist southern gothic mood, half detected in “Harlem” and fully there in “Strange Fruit,” the weight of the past sagging or weighing like a nightmare. The futurality of things (the dream deferred) could sag in the toxic atmosphere of automation…the plane that can’t crash, the ship that can’t sink—didn’t we learn anything from the Titanic or from Titanic? Leonardo di Caprio would be pulped in a malfunctioning Max 8, that massively distributed Titanic. You can’t even make a romantic film about it. Is that progress? 
+Sagging suggests just letting gravity, aka spacetime, do its thing, a kind of existing in indifference. It’s not about stasis--it’s moving. Sagging is an abject movement that could indeed explode from the inside as slime as much as fire, like ectoplasm, the spectral body fluid; sagging is about physical being and time, “going out of shape” and getting old…Environmental creepiness is there in that racist southern gothic mood, half detected in “Harlem” and fully there in “Strange Fruit,” the weight of the past sagging or weighing like a nightmare. The futurality of things (the dream deferred) could sag in the toxic atmosphere of automation…the plane that can’t crash, the ship that can’t sink—didn’t we learn anything from the Titanic or from Titanic? Leonardo di Caprio would be pulped in a malfunctioning Max 8, that massively distributed Titanic. You can’t even make a romantic film about it. Is that progress?  
 </span>
 </p>
 

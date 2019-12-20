@@ -8,26 +8,29 @@
 
 ## In-Process
 
-- [ ] update FULLNESS of BEING Post
-- [ ] update 2019-fall with new list
-- [ ] ‘fabrik’ type face is not reading
-- [ ] make lead drop caps that use pink substrate pattern 
-- [ ] flag/logo mock ups using pink substrate pattern
-- [ ] navigation links
-- [ ] italics on the first two lines of ‘Someone Quiet Down the		 Biodiverse I’
 - [ ] art for fullness of being
 - [ ] review pull quotes for fullness of being
-- [ ] Rag right on all copy 
-- [ ] Font size the same for body copy
-- [ ] Drop caps on lead paragraph
+- [ ] update 2019-fall with new list
+- [ ] ‘fabrik’ type face is not reading
+- [ ] navigation links
 - [ ] Make some sample pull quotes using FABRIK 
 - [ ] Add New Pink 11-11 Flag to Landing Page, Fall 2019, Contributors, Masthead, About
 
 ### Notes
 
+Design Edits, need to be visualized
+
+- [ ] Rag right on all copy 
+- [ ] Font size the same for body copy
+- [ ] Drop caps on lead paragraph
+- [ ] make lead drop caps that use pink substrate pattern 
+- [ ] flag/logo mock ups using pink substrate pattern
+
 ## Completed
 
-- [ ] incorporate youmna and gayle’s answers into one
+- [x] update FULLNESS of BEING Post
+- [x] italics on the first two lines of ‘Someone Quiet Down the Biodiverse I’
+- [x] incorporate youmna and gayle’s answers into one
 - [x] move policies to masthead page
 - [x] consistently use 11-11
 - [x] home page: ‘Eleven Eleven’ should be body copy

@@ -9,9 +9,9 @@ permalink: /someone-quiet-down-the-biodiverse/
 ---
 
 <p style="line-height: 2;">
-Decentralize now
+<span style="font-style: italic;">Decentralize now</span>
 <br><br>
-This is our shared mission
+<span style="font-style: italic;">This is our shared mission</span>
 <br><br>
 Sorry to change it again mom, but we’re giving up singular pronouns
 <br><br>
