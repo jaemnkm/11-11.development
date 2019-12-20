@@ -9,8 +9,8 @@ permalink: /fullness-of-being/
 ---
 
 <p>
-<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/morton_book_cover.jpg" alt="">
-<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/Julien_Masquerad.jpg" alt="">
+<img style="display: inline-block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/morton_book_cover.jpg" alt="">
+<img style="display: inline-block; margin-left: auto; margin-right: auto; width:40vw;" src="{{site.baseurl}}/assets/20191111/Julien_Masquerad.jpg" alt="">
 </p>
 ><span style="font-weight: 700">So who wrote the poem? A human being? The human being’s family or psychic issues? The human being’s unconscious? The culture the human lived in?</span>
 
