@@ -159,5 +159,13 @@ Two images of plants and animals beginning to make themselves at home. Using pea
           </ul>
         </ul>
       </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/youmna-chlala/">Youmna Chlala</a> & <a style="color:#000;" href="{{site.baseurl}}/gayle-romasanta/">Gayle Romasanta</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/catching-up/">Catching Up with Gayle R and Youmna C, Founding editors of 11-11</a></li>
+          </ul>
+        </ul>
+      </div>
     </div>
   </section>

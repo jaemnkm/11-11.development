@@ -15,7 +15,6 @@
 - [ ] flag/logo mock ups using pink substrate pattern
 - [ ] navigation links
 - [ ] italics on the first two lines of ‘Someone Quiet Down the		 Biodiverse I’
-- [ ] incorporate youmna and gayle’s answers into one
 - [ ] art for fullness of being
 - [ ] review pull quotes for fullness of being
 - [ ] Rag right on all copy 
@@ -28,6 +27,7 @@
 
 ## Completed
 
+- [ ] incorporate youmna and gayle’s answers into one
 - [x] move policies to masthead page
 - [x] consistently use 11-11
 - [x] home page: ‘Eleven Eleven’ should be body copy

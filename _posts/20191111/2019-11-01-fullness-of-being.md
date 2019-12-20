@@ -253,6 +253,7 @@ Sagging suggests just letting gravity, aka spacetime, do its thing, a kind of ex
 <!-- End of page -->
 <!-- Start of Bottom Footer -->
 
+
 <nav class="nav justify-content-center" style="box-shadow: 0 2px 2px -2px rgba(0,0,0,0);">
   <div class="nav-container">
     <a href="{{ site.baseurl }}/">
@@ -304,6 +305,14 @@ Sagging suggests just letting gravity, aka spacetime, do its thing, a kind of ex
           <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Buoyant Ecologies</a></li>
           <ul>
             <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">The Future Floats: Building Buoyant Homes for Nonhumans</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/youmna-chlala/">Youmna Chlala</a> & <a style="color:#000;" href="{{site.baseurl}}/gayle-romasanta/">Gayle Romasanta</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/catching-up/">Catching Up with Gayle R and Youmna C, Founding editors of 11-11</a></li>
           </ul>
         </ul>
       </div>
