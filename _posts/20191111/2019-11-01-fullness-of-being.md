@@ -7,7 +7,7 @@ tag: 20191111
 categories: 2019fall
 permalink: /fullness-of-being/
 ---
-
+<div class="container-fluid page-section-head"></div>
 <p>
 <img style="display: inline-block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/morton_book_cover.jpg" alt="">
 <img style="display: inline-block; margin-left: auto; margin-right: auto; width:40vw;" src="{{site.baseurl}}/assets/20191111/Julien_Masquerad.jpg" alt="">
