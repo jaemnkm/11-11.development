@@ -8,9 +8,10 @@ categories: 2019fall
 permalink: /fullness-of-being/
 ---
 
+<p>
 <img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/morton_book_cover.jpg" alt="">
 <img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20191111/Julien_Masquerad.jpg" alt="">
-
+</p>
 ><span style="font-weight: 700">So who wrote the poem? A human being? The human being’s family or psychic issues? The human being’s unconscious? The culture the human lived in?</span>
 
 >If we don’t like the theology of dollars and structural unemployment and having to work to live and all that stuff... do we think it would be a good idea to include cockroaches and cats in the revolutionary projects we have going on?
