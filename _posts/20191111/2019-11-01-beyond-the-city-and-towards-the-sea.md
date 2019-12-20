@@ -8,7 +8,7 @@ categories: 2019fall
 permalink: /beyond-the-city-and-towards-the-sea/
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto; width:10vw;" src="{{site.baseurl}}/assets/profile/rita-bullwinkle.jpg" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto; width:20vw;" src="{{site.baseurl}}/assets/profile/rita-bullwinkle.jpg" alt="">
 
 >“If I were to sleep inside one of the float lab’s warm kidneys I imagine that it would feel like I had the whole ocean to dream in.”
 

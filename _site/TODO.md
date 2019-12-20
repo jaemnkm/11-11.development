@@ -8,7 +8,6 @@
 
 ## In-Process
 
-- [ ] art for fullness of being
 - [ ] review pull quotes for fullness of being
 - [ ] update 2019-fall with new list
 - [ ] ‘fabrik’ type face is not reading
@@ -28,6 +27,7 @@ Design Edits, need to be visualized
 
 ## Completed
 
+- [x] art for fullness of being
 - [x] update FULLNESS of BEING Post
 - [x] italics on the first two lines of ‘Someone Quiet Down the Biodiverse I’
 - [x] incorporate youmna and gayle’s answers into one
