@@ -5,7 +5,9 @@
 @import 'tale';
 @font-face {
     font-family: Fabrik-Regular;
-    src: url("{{site.baseurl}}/assets/fonts/fabrik_n.otf");
+    src: url("{{site.baseurl}}/assets/fonts/fabrik_n.otf"),
+         url('fabrik_n-webfont.woff2') format('woff2'),
+         url('fabrik_n-webfont.woff') format('woff');
 }
 @font-face {
     font-family: Fabrik-Bold;
